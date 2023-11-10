@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 input_file = sys.argv[1]
